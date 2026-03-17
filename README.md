@@ -7,18 +7,6 @@ I care less about how fast a system produces answers, and more about whether an 
 
 ---
 
-### 🧠 What I Spend Time On
-
-Things I tend to think about more than is strictly necessary:
-
-- **Disagreement as signal** — when models disagree, something interesting is usually happening.
-- **Traceable reasoning** — reasoning that can be inspected, replayed, and constrained.
-- **Judgment over output** — cases where abstention is not failure, but competence.
-
-These questions become unavoidable when the environment is noisy, the evidence is partial, and the **cost of being confidently wrong** is high.
-
----
-
 ### 🛠 How I Work
 
 I keep my public presence intentionally minimal. Visibility is easy to measure; rigor is not.  
