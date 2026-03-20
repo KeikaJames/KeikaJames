@@ -26,6 +26,6 @@ If something looks unfinished, it probably is—and probably on purpose.
 <sub>
 If you are curious, the work itself is a better reference than any longer description.
   
-https://img.shields.io/badge/%E5%A4%9A%E5%BF%AB%E5%A5%BD%E7%9C%81-red
+![多快好省](https://img.shields.io/badge/多快好省-red?style=for-the-badge)
 
 </sub>
